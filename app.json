@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "grate_cheese_firebase",
+    "slug": "grate_cheese_firebase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyC8q37tN8XF0k-OpraxGgIjBtG91F3_YgE",
+          "authDomain": "fir-auth-604dc.firebaseapp.com",
+          "projectId": "fir-auth-604dc",
+          "storageBucket": "fir-auth-604dc.appspot.com",
+          "messagingSenderId": "940592335901",
+          "appId": "1:940592335901:web:52205c65612ef6169b8af4"
+        }
+      },
+      "favicon": "./assets/favicon.png"
+      
+    }
+  }
+}
