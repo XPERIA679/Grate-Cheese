@@ -1,4 +1,3 @@
-<h1>XD</h1>
 <h1 align="center">Grate Cheese Application</h1>
 <h3 align="center">Mobile Application for the Final Project Requirement</h3>
 
